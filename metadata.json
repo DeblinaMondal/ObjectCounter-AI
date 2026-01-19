@@ -1,0 +1,5 @@
+{
+  "name": "ObjectCounter AI",
+  "description": "Upload an image of multiple similar items (like apples, coins, or cars) and let the AI count them for you instantly.",
+  "requestFramePermissions": []
+}
